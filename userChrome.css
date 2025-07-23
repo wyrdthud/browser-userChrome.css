@@ -1,0 +1,9 @@
+.tab-close-button {
+	display:none!important;
+}
+.tab-background[selected] {
+	box-shadow: inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5) !important;
+}
+.tab-icon-overlay[soundplaying] {
+	pointer-events: none !important;
+}
